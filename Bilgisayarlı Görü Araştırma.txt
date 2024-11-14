@@ -1,0 +1,15 @@
+https://ece-akdagli.medium.com/yolo-algoritmas%C4%B1-nedir-859862c7d5a6
+
+https://www.datalabelify.com/tr/nesne-algilama-icin-yolo-algoritmasi/
+
+https://www.labellerr.com/blog/understanding-yolov8-architecture-applications-features/
+
+https://aylablgn.medium.com/yolo-you-only-look-once-mimarisi-nedir-754d0bc6a6ba
+
+Derin Öğrenme Algoritması (YOLO) ile Dinamik Test Süresince 
+Süspansiyon Parçalarında Çatlak Tespiti
+
+
+
+
+A Review of Yolo Algorithm Developments
